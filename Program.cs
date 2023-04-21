@@ -44,7 +44,7 @@ static void ReadData(string filename)
         }
         sw.Stop();
 
-        Console.WriteLine($"Sequential read of {filename} bytes took {sw.ElapsedMilliseconds} ms");
+        Console.WriteLine($"Randomly read of {filename} bytes took {sw.ElapsedMilliseconds} ms");
     }
 }
 
