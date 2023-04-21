@@ -5,8 +5,8 @@ using System.Linq;
 ReadData("10M");
 ReadData("100M");
 ReadData("500M");
-// ReadData("1G");
-// ReadData("5G");
+ReadData("1G");
+ReadData("5G");
 
 // Read the date sequentialy and randomly
 static void ReadData(string filename)
