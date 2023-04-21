@@ -40,7 +40,6 @@ static void ReadData(string filename)
         {
             fs.Position = indices[bytesRead];
             n = fs.Read(bytes, 0, 1);
-            // if (indices[bytesRead] < 100) Console.WriteLine($"{bytesRead}, {indices[bytesRead]}, {bytes[0]}");
         }
         sw.Stop();
 
