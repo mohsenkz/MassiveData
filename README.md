@@ -1,5 +1,5 @@
 # MassiveData
-Massive Data Algorithms course assignment, Sharif University of Technology.
+Massive Data Algorithms course assignment, at Sharif University of Technology.
 
 To run the code, navigate to the project folder and run the following command in theterminal.
 
