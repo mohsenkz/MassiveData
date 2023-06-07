@@ -1,7 +1,7 @@
 # MassiveData
 Massive Data Algorithms course assignment, at Sharif University of Technology.
 
-To run the code, navigate to the root project and run the following command in the terminal.
+To run the code, navigate to the root of the project and run the following command in the terminal.
 
 $ dotnet run
 
